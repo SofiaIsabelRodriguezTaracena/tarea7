@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\bin\Debug\201800605_tarea7.exe.config
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\bin\Debug\201800605_tarea7.exe
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\bin\Debug\201800605_tarea7.pdb
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\bin\Debug\201800605_tarea7.xml
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\201800605_tarea7.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\_201800605_tarea7.Form1.resources
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\_201800605_tarea7.Resources.resources
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\201800605_tarea7.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\201800605_tarea7.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\201800605_tarea7.exe
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\201800605_tarea7.xml
+C:\Users\LENOVO\source\repos\201800605_tarea7\201800605_tarea7\obj\Debug\201800605_tarea7.pdb
